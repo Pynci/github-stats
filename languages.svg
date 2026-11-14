@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #b07219; 
-  width: 65.762%;
+  width: 65.746%;
 " class="progress-item"></span><span style="
   background-color: #596706; 
-  width: 10.174%;
+  width: 10.195%;
 " class="progress-item"></span><span style="
   background-color: #3D6117; 
-  width: 7.554%;
+  width: 7.552%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 2.966%;
+  width: 2.965%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 2.761%;
+  width: 2.760%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
-  width: 2.436%;
+  width: 2.435%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 2.356%;
 " class="progress-item"></span><span style="
   background-color: #74283c; 
-  width: 1.886%;
+  width: 1.885%;
 " class="progress-item"></span><span style="
   background-color: #3fb68b; 
   width: 1.286%;
@@ -206,7 +206,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Java</span>
-  <span class="percent">65.76%</span>
+  <span class="percent">65.75%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -222,7 +222,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Smalltalk</span>
-  <span class="percent">10.17%</span>
+  <span class="percent">10.20%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
